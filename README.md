@@ -1,40 +1,31 @@
-<h2 align="left">Hi 👋 I'm śpioch</h2>
+###
+
+<h1 align="center">Hellow 👋 I'm śpioch</h1>
 
 ###
 
+- _hello kitty enjoyer_
+- _:3 abuser_
 
-###
+##
 
-<img align="right" height="180" src="https://cdn.discordapp.com/attachments/914942868064464927/1116366142454366208/eoeoeoeoe.gif"  />
+<h2 align="center"> My fav languages and tools🧁
 
-###
+</br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,cpp,cs,java,php"> </br>
+  <img src="https://skillicons.dev/icons?i=react,astro,nodejs,firebase"> </br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio">
 </div>
 
 ###
 
+<h3 align="center"> Want to contact me? </h3>
+<div align="center">
+<a href="https://discord.com/users/572771911508033565" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+ <a href="https://twitter.com/wiczkalelele" target="_blank"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://www.instagram.com/wikakozinka/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</div>
 
-###
-
-<br clear="both">
-
-
-###
+##
